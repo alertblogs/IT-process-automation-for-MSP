@@ -1,59 +1,40 @@
-Red Canary says 43% Lack Readiness to Notify Customers of a Security Breach
+IT process automation for managed service providers
 ========
 
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
+  IT process automation can have several benefits for a managed service provider. It can increase productivity, lower costs, improve quality, reduce downtime, improve SLA management and keep customers happy.
 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Until now, IT process automation was a benefit mostly enjoyed by large organizations. However, with the introduction of SaaS tools and standards for integrating these tools, it is now possible for any managed service provider to enjoy the same benefits.
 
-Not One Size Fits All
-========
+IT automation for managed service provider can be achieved in two areas; remote monitoring management (RMM) and professional services administration (PSA).
 
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+In the area of RMM, automation can improve workload distribution with intelligent alert management. Getting the alerts to the right person saves time. AlertOps smart alert management can route RMM alerts to the right person. Alert noise also impacts productivity. AlertOps Alert Aggregation suppresses noise. Smart alert management can automatically defer non-critical alerts until the next business day.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Remote process automation (RPA) can reduce downtime and fix problems before they grow into major incidents. AlertOps workflows can automatically trigger a remote process in a tool like Kaseya to fix the problem. AlertOps also allows a remote process can also be triggered from a mobile app, saving the responder from having to log into a server.
 
-Automate Processes
-========
+Likewise, process automation can reduce effort in PSA tools. AlertOps can be integrated with PSA tools like Connectwise Manage. AlertOps can automatically send updates to a ticket in Connectwise, reducing manual entry.
 
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
-========
-
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
- 
-Insightful Notifications
-========
-
-
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-========
-
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+Learn more about AlertOps for managed service providers.
 
 Source:
 ========
-alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach
+https://alertops.com/it-process-automation-for-managed-service-providers/
 
 readmore:
 ========
 
-alertops.com/covid-pandemic-business-continuity
-https://alertops.com/stakeholder-communications-plan
-https://alertops.com/incident-management-metrics
-https://alertops.com/incident-management-process
-https://alertops.com/it-process-automation-for-managed-service-providers
-https://alertops.com/application-performance-monitoring
-https://alertops.com/alertops-expert-guidance
-https://alertops.com/alertops-automation
-https://alertops.com/it-monitoring
-https://alertops.com/alertops-flexibility/
+https://alertops.com/alertops-and-apteligent-integration/
+https://alertops.com/think-youre-cut-out-for-hipchat-integration/
+https://alertops.com/why-we-love-slack-integration-and-you-should-too/
+https://alertops.com/alertops-microsoft-azure-integration/
+https://alertops.com/alertops-pingdom-integration/
+https://alertops.com/pagerduty-comparison-alert-management/
+https://alertops.com/pagerduty-comparison-analytics/
+https://alertops.com/pagerduty-comparison-incidents/
+https://alertops.com/pagerduty-comparison-alert-templates/
+https://alertops.com/pagerduty-comparison-incident-management-workflow/
+https://alertops.com/pagerduty-comparison-incident-api/
+https://alertops.com/pagerduty-sla-incident-management/
+https://alertops.com/pagerduty-comparison-flexibility/
+https://alertops.com/pagerduty-comparison-itil-mttr/
+https://alertops.com/alertops-paging-for-enterprise/
+https://alertops.com/covid-19-business-continuity-alerting-plan/
