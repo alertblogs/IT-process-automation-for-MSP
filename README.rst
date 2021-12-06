@@ -1,7 +1,6 @@
 IT process automation for managed service providers
 ========
-
-  IT process automation can have several benefits for a managed service provider. It can increase productivity, lower costs, improve quality, reduce downtime, improve SLA management and keep customers happy.
+IT process automation can have several benefits for a managed service provider. It can increase productivity, lower costs, improve quality, reduce downtime, improve SLA management and keep customers happy.
 
 Until now, IT process automation was a benefit mostly enjoyed by large organizations. However, with the introduction of SaaS tools and standards for integrating these tools, it is now possible for any managed service provider to enjoy the same benefits.
 
